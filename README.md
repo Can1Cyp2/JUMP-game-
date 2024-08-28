@@ -33,4 +33,49 @@ Also, if I were to remake this game now, I would change a lot of the code. Ultim
 
 If you’d like to try **JUMP!**, here’s how you can get started:
 
+1. **Download the Game:**
+
+  First, clone the repository to your computer:
+
+  `git clone https://github.com/Can1Cyp2/JUMP-game-.git`
+   
+2. **Navigate to the Game Directory:**
+
+   Navigate into the game directory using quotes to handle any spaces or special characters:
+
+   ```bash
+   cd "D:\Computer science\TestGitGame JUMP!\JUMP-game-"
+
+3. **Set Up a Virtual Environment:**
+
+   Create a virtual environment to keep your dependencies isolated:
+
+   ```bash
+   python -m venv myenv
+
+4. **Activate the Virtual Environment:**
+
+   Activate the virtual environment you just created:
+
+   - On Windows:
+
+     ```bash
+     .\myenv\Scripts\activate
+     ```
+
+   After activation, you should see `(myenv)` before your command prompt, indicating that the virtual environment is active.
+
+5. **Install Pygame:**
+
+   With the virtual environment active, install `pygame`:
+
+   ```bash
+   pip install pygame
+
+6. **Run the Game:**
+
+   Once everything’s set up, you can run the game with this command:
+
+   ```bash
+   python "JUMP! (game file).py"
 
