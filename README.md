@@ -44,7 +44,7 @@ If you’d like to try **JUMP!**, here’s how you can get started:
    Navigate into the game directory using quotes to handle any spaces or special characters:
 
    ```bash
-   cd "D:\Computer science\TestGitGame JUMP!\JUMP-game-"
+   cd JUMP-game-
 
 3. **Set Up a Virtual Environment:**
 
